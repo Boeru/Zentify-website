@@ -1,5 +1,5 @@
 
-h1 {font-size: 12em;
+/*h1 {font-size: 12em;
 	color:  white;
 	font-family: 'Cookie', cursive;
 	text-align:center;
@@ -23,13 +23,13 @@ text-align : center;
 margin: 100px;
 }
 
-
+/*
 .abschnitt {
 	min-width: 1285px;
 	height: 1000px;
 	overflow: auto;
 	border: px solid gray;
-	margin: -9px auto 0 -20px; */
+	margin: -9px auto 0 -20px; 
 
 }
 
@@ -58,7 +58,7 @@ section#d { background: purple }
     right: 0;
     
     }
-    
+    */
 
  .LR-content {
     color: #FFFFFF;
