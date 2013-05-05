@@ -24,7 +24,7 @@ margin: 100px;
 }
 
 
-div {
+.abschnitt {
 	min-width: 1285px;
 	height: 1000px;
 	overflow: auto;
