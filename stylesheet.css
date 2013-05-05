@@ -59,6 +59,35 @@ section#d { background: purple }
     
     }
     
+
+ .LR-content {
+    color: #FFFFFF;
+    font-family: "Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    height: 200px;
+    min-height: 100%;
+    position: absolute;
+    width: 500px;
+    z-index: 0;
+}
+
+.LR-bg-img {
+    background-attachment: fixed;
+    background-color: #222222;
+    background-image: url("img/classicBg.png");
+    background-position: center center;
+    background-size: cover;
+    content: "";
+    height: 50%;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 0;
+}
     
 
 
