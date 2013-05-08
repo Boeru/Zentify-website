@@ -27,7 +27,7 @@ margin: 100px;
 div#lr-widget {
 	display: block;
 	min-width: 1285px;
-	height: 1000px;
+	height: 100%;
 	overflow: auto;
 	border: px solid gray;
 	margin: 0 auto 0 auto;
@@ -35,6 +35,7 @@ div#lr-widget {
 }
 
 section {
+	display: block;
 	height: 400px;
 	/*background: blue;*/
 	text-align:center;
