@@ -24,7 +24,7 @@ margin: 100px;
 }
 
 
-div#lr-widget {
+/*div#lr-widget {
 	
 	min-width: 1285px;
 	height: 1000px;
@@ -32,35 +32,28 @@ div#lr-widget {
 	border: px solid gray;
 	margin: 0 auto 0 auto;
 
-}
+}*/
 
 section {
 	
 	height: 400px;
-	/*background: blue;*/
+	background: blue;
 	text-align:center;
 	padding-top: 50px;
 }
 
-/*
+
 section#a { background: moccasin;
 height: 400px;}
 section#b { background: darkgrey }
 section#c { background: magenta }
 section#d { background: purple }
-*/
 
-#header {
-	height: 45px;
-	position: fixed;
-	min-width: 1285px;
-	background-color: #cc0033;
-    box-shadow: 0 0 30px #ddd;
-    top: 0;
-    left: 0;
-    right: 0;
-    
-    }
+
+
+
+
+
     
     
 
