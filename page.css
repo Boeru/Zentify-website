@@ -24,15 +24,15 @@ margin: 100px;
 }
 
 
-/*div#lr-widget {
+div#lr-widget {
 	
 	min-width: 1285px;
-	height: 1000px;
+	height: 100%;
 	overflow: auto;
 	border: px solid gray;
 	margin: 0 auto 0 auto;
 
-}*/
+}
 
 section {
 	
