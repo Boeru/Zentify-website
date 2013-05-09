@@ -1,18 +1,15 @@
 
 h1 {
-	color:  black;
+	color: white;
 	font-family: 'Cookie', cursive;
-
+font-size: 8em;
 	text-align:center;
-	margin: px;
-	text-align: left;
-font-size : 6em; /* 96 / 16 */
-line-height : 1em;
-letter-spacing: 0.5px;
-font-weight : normal;
+	margin: 90px;
+	text-align: center;
+
 }
 
-/*
+
 	
 h2 {font-size: 8em;
 	color: #11;
