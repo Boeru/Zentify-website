@@ -1,0 +1,76 @@
+/*#header {
+	height: 4px;
+	position: relative;
+	min-width: 1285px;
+	background-color: #cc0033;
+    box-shadow: 0 0 30px #ddd;
+    top: 0;
+    left: 0;
+    right: 0;
+    
+    }*/
+
+
+.academy {
+color : #000;
+-webkit-transition: all 0.3s ease;
+-moz-transition: all 0.3s ease;
+-o-transition: all 0.3s ease;
+transition: all 0.3s ease;
+
+border-bottom: 4px solid #191970;}
+
+}
+
+
+ down vote
+	
+
+ul.social { list-style: none outside none; }
+ul.socal > li { display:inline; }
+
+
+
+
+.event { 
+color : #000;
+-webkit-transition: all 0.3s ease;
+-moz-transition: all 0.3s ease;
+-o-transition: all 0.3s ease;
+transition: all 0.3s ease;
+
+border-bottom: 4px solid #191970;}
+
+#wilson { 
+
+ width: 260px;
+ height:260px;
+ 
+ 
+}
+#leadership { 
+
+ width: 210px;
+ height:210px;
+ 
+ 
+}
+
+#wilsonlogo { 
+
+ margin-top: 70px;
+ 
+}
+
+
+.twitterbird {
+
+ width: 230px;
+ height:230px;
+ display:block;
+ margin-left: auto;
+ margin-right: auto;
+ vertical-align: center;
+
+ 
+}

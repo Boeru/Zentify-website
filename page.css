@@ -1,11 +1,16 @@
 
-h1 {font-size: 12em;
-	color:  white;
+h1 {
+	color:  black;
 	font-family: 'Cookie', cursive;
 	text-align:center;
-	margin: 40px;
-	
+	margin: px;
+	text-align: left;
+font-size : 6em; /* 96 / 16 */
+line-height : 1em;
+letter-spacing: 0.5px;
 }
+
+/*
 	
 h2 {font-size: 8em;
 	color: #11;
@@ -22,6 +27,8 @@ font-family : Covered By Your Grace, cursive;
 text-align : center;
 margin: 100px;
 }
+
+*/
 
 
 div#lr-widget {
