@@ -2,12 +2,14 @@
 h1 {
 	color:  black;
 	font-family: 'Cookie', cursive;
+
 	text-align:center;
 	margin: px;
 	text-align: left;
 font-size : 6em; /* 96 / 16 */
 line-height : 1em;
 letter-spacing: 0.5px;
+font-weight : normal;
 }
 
 /*
