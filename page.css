@@ -34,15 +34,35 @@ div#lr-widget {
 	
 	
 	height: 800px;
-	overflow: auto;
+	/*overflow: auto;*/
 	
 	margin: 0 auto 0 auto;
 
 }
 
 
+div#page {
+	
+	height: 400px;
 
-section {
+	
+	text-align:center;
+	/*padding: 8px;*/
+	position: relative;
+
+	
+}
+
+
+div#page.a { background: moccasin;
+
+}
+div#page.b { background: darkgrey }
+div#page.c { background: magenta }
+div#page.d { background: purple }
+
+
+/*section {
 	
 	height: 400px;
 	background: blue;
