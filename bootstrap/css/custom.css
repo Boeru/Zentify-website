@@ -5,6 +5,7 @@ div#lr-widget {
 	
 	height: 600px;
 	/*overflow: auto;*/
+	z-index: 0;
 	
 	margin: 0 auto 0 auto;
 
