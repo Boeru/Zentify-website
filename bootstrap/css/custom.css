@@ -11,6 +11,12 @@ div#lr-widget {
 }
 
 
+.container {
+
+	z-index: 2;
+}
+
+
 
 
 
