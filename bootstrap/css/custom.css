@@ -34,19 +34,19 @@ div#usp {
 
 
 div.navbar-inner {
-	background: none;
+	background: white;
 	filter: none;
 	border: none;
 	box-shadow: none;
 	height: 75px;
-	margin-top: 0px;
-	padding-top: 0px;
+
 }
 
 
 div.navbar .nav > li > a {
 	color: black;
 	text-shadow: none;
+	
 }
 
 div.navbar .nav > li > a:hover {
