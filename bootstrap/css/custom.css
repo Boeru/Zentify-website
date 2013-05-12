@@ -11,10 +11,18 @@ div#lr-widget {
 
 }
 
-.hero {
-	background-color: moccasin;
+div#hero {
+	background: #00FA9A;
 	height: 400px;
+	z-index: 2;
+
 }
+
+div.hero-unit{
+	background: transparent;
+}
+
+
 
 
 
