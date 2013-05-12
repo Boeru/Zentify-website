@@ -9,5 +9,6 @@ div#lr-widget {
 	/*overflow: auto;*/
 	
 	margin: 0 auto 0 auto;
+	z-index: 0;
 
 }
