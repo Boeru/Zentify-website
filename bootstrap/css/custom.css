@@ -3,18 +3,13 @@
 div#lr-widget {
 	
 	
-	height: 800px;
+	height: 600px;
 	/*overflow: auto;*/
 	
 	margin: 0 auto 0 auto;
 
 }
 
-
-.container {
-
-	z-index: 2;
-}
 
 
 
