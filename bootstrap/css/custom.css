@@ -14,6 +14,7 @@ div#lr-widget {
 div#hero {
 	background: #00FA9A;
 	height: 500px;
+	padding-top: 100px;
 	
 
 }
@@ -25,9 +26,54 @@ div.hero-unit{
 div#usp {
 	background: white;
 	height: 500px;
+	padding-top: 100px;
 	
 
 }
+
+
+
+div.navbar-inner {
+	background: none;
+	filter: none;
+	border: none;
+	box-shadow: none;
+	height: 75px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+
+div.navbar .nav > li > a {
+	color: black;
+	text-shadow: none;
+}
+
+div.navbar .nav > li > a:hover {
+	color: #00FA9A;
+	}
+
+div.navbar .nav .active > a { 
+	color: black;
+	background: #00FA9A;
+	filter: none;
+	border: none;
+	box-shadow: none;
+}
+
+div.navbar .nav .active > a:hover { 
+	color: black;
+	background: lightgrey;
+	filter: none;
+	border: none;
+	box-shadow: none;
+	}
+
+div.navbar .divider-vertical{
+	width: 50px;
+	border: none;
+}
+
 
 
 
