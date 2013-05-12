@@ -19,6 +19,12 @@ div#hero {
 
 }
 
+div.heady{
+	background: #00FA9A;
+	height: 75px;
+	width:100%;
+}
+
 div.hero-unit{
 	background: transparent;
 }
@@ -39,6 +45,7 @@ div.navbar-inner {
 	border: none;
 	box-shadow: none;
 	height: 75px;
+	padding-top:35px;
 
 }
 
@@ -46,7 +53,7 @@ div.navbar-inner {
 div.navbar .nav > li > a {
 	color: black;
 	text-shadow: none;
-	
+
 }
 
 div.navbar .nav > li > a:hover {
