@@ -30,10 +30,22 @@ div.hero-unit{
 div#usp {
 	background: white;
 	height: 500px;
+	padding-top: 50px;
+	position: relative;
+	text-align: center;
+	
+}
+
+div#reasons {
+	background: lightgrey;
+	height: 500px;
 	padding-top: 100px;
 	position: relative;
 	
 }
+
+
+
 
 div#footer{
 	background: lightgrey;
@@ -115,7 +127,10 @@ li.logotext {
 }
 
 
+div.span4 {
 
+	text-align: center;
+}
 
 
 
