@@ -15,6 +15,7 @@ div#hero {
 	background: #00FA9A;
 	height: 500px;
 	padding-top: 100px;
+	position: relative;
 	
 
 }
@@ -23,14 +24,23 @@ div#hero {
 
 div.hero-unit{
 	background: transparent;
+	position: relative;
 }
 
 div#usp {
 	background: white;
 	height: 500px;
 	padding-top: 100px;
+	position: relative;
 	
+}
 
+div#footer {
+	background: lightgrey;
+	height: 500px;
+	padding-top: 100px;
+	position: relative;
+	
 }
 
 
