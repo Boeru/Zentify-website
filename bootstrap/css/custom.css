@@ -3,7 +3,7 @@
 div#lr-widget {
 	
 	
-	height: 700px;
+	height: 540px;
 	/*overflow: auto;*/
 
 	
@@ -50,9 +50,10 @@ div.navbar-inner {
 	filter: none;
 	border: none;
 	box-shadow: none;
-	height: 55px;
-	padding-top: 20px;
+	height: 65px;
+	padding-top: 10px;
 	margin-bottom: 100px;
+	width: 100%;
 
 	
 
@@ -74,9 +75,21 @@ div.navbar .nav > li > a:hover {
 div.navbar .nav .active > a { 
 	color: black;
 	background: #00FA9A;
+
 	filter: none;
 	border: none;
 	box-shadow: none;
+	
+margin-top: 8px ;
+	padding: 2px 9px;
+	float: left;
+	display: block;
+	clear: both;
+	line-height: 1.1em;
+	height: auto;
+
+	
+
 }
 
 div.navbar .nav .active > a:hover { 
