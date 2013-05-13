@@ -50,8 +50,9 @@ div#reasons {
 div#footer{
 	background: lightgrey;
 	height: 200px;
-	padding-top: px;
+	
 	position: relative;
+	padding-top: 30px;
 	
 	
 }
@@ -133,10 +134,46 @@ div.span4 {
 	margin-top: 50px;
 }
 
+div.span3 {
+
+
+}
+
+
+
+h5.footerlink {
+  margin: 10px 0;
+
+  font-family: inherit;
+  font-weight: bold;
+  line-height: 20px;
+  color: black;
+  text-rendering: optimizelegibility;
+}
+
+h5.quote {
+color: white;
+margin-left: 70px;
+	}
+
+h4.footerheadline {
+	line-height: 25px;
+	margin-bottom: 20px;
+
+}
 
 
 
 
+
+h4.signature {font-family: cookie;
+	font-size: 3.1em;
+	font-weight: 300;
+	padding-top: 8px;
+	color: white;
+	margin-left: 70px;
+
+}
 
 
 
