@@ -14,7 +14,8 @@ div#lr-widget {
 div#hero {
 	background: #00FA9A;
 	height: 500px;
-	padding-top: 100px;
+	padding-top: 40px;
+	padding-bottom: 30px;
 	position: relative;
 	
 
@@ -77,7 +78,7 @@ div.navbar-inner {
 
 
 div.navbar .nav > li > a {
-	color: black;
+	color: #333333;
 	text-shadow: none;
 
 }
@@ -87,7 +88,7 @@ div.navbar .nav > li > a:hover {
 	}
 
 div.navbar .nav .active > a { 
-	color: black;
+	color: #333333;
 	background: #00FA9A;
 
 	filter: none;
@@ -124,6 +125,7 @@ li.logotext {
 	font-size: 3.1em;
 	font-weight: 300;
 	padding-top: 8px;
+	color: #333333;
 
 }
 
@@ -147,9 +149,13 @@ h5.footerlink {
   font-family: inherit;
   font-weight: bold;
   line-height: 20px;
-  color: black;
+  color: #333333;
   text-rendering: optimizelegibility;
+  text-decoration: none;
 }
+
+
+
 
 h5.quote {
 color: white;
@@ -159,6 +165,7 @@ margin-left: 70px;
 h4.footerheadline {
 	line-height: 25px;
 	margin-bottom: 20px;
+	color: #333333;
 
 }
 
@@ -180,7 +187,70 @@ h4.signature {font-family: cookie;
 
 
 
+/*btn btn-primary btn-large*/
 
+.myButtonwhite {
+
+
+	width: 25%;
+	
+		
+        
+        -moz-box-shadow:inset 0px px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px px 0px 0px #ffffff;
+        box-shadow:inset 0px px 0px 0px #ffffff;
+        
+        background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #ffffff));
+        background:-moz-linear-gradient(top, #ffffff 5%, #ffffff 100%);
+        background:-webkit-linear-gradient(top, #ffffff 5%, #ffffff 100%);
+        background:-o-linear-gradient(top, #ffffff 5%, #ffffff 100%);
+        background:-ms-linear-gradient(top, #ffffff 5%, #ffffff 100%);
+        background:linear-gradient(to bottom, #ffffff 5%, #ffffff 100%);
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0);
+        
+        background-color:#ffffff;
+        
+        -moz-border-radius:0px;
+        -webkit-border-radius:0px;
+        border-radius:0px;
+        
+        
+        
+        display:inline-block;
+       color: #333333;
+        font-family:Trebuchet MS;
+        font-size:17px;
+        font-weight:bold;
+        padding:11px ;
+		margin:20px 3px 6px ;
+        text-decoration: none;
+        
+        
+
+    }
+    .myButtonwhite:hover {
+        
+	
+        background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, lightgrey), color-stop(1, lightgrey));
+        background:-moz-linear-gradient(top, lightgrey  5%, lightgrey 100%);
+        background:-webkit-linear-gradient(top, lightgrey  5%, lightgrey  100%);
+        background:-o-linear-gradient(top, lightgrey  5%, lightgrey  100%);
+        background:-ms-linear-gradient(top, lightgrey  5%, lightgrey  100%);
+	
+        background:linear-gradient(to bottom,lightgrey 5%, lightgrey  100%);
+        color: #333333;
+         text-decoration: none;
+        background-color:lightgrey;
+    }
+    .myButtonwhite:active {
+        position:relative;
+        top:1px;
+         text-decoration: none;
+    }
+
+
+		
+        
 
 
 
