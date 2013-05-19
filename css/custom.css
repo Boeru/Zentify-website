@@ -179,6 +179,7 @@ h5.footerlink:hover {
 
 h5.quote {
 color: white;
+font-weight: 230;
 margin-left: 70px;
 
 	}
@@ -198,7 +199,7 @@ h4.signature {font-family: cookie;
 	font-size: 3.1em;
 	font-weight: 300;
 	padding-top: 15px;
-	margin-bottom: -20px;
+	margin-bottom: -10px;
 	color: white;
 	margin-left: 70px;
 
