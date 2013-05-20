@@ -102,13 +102,8 @@ div#kickoff {
 	
 
 
-  background: url(images/bg.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
   position: relative;
-  z-index: 2;
+ 
 
 }
 
@@ -125,7 +120,7 @@ div#kickoff {
 
 
 div.kickoff-unit{
-	background: transparent;
+	background: moccasin;
 	position: relative;
 	text-align: center;
 	
@@ -137,16 +132,12 @@ div.kickoff-unit{
 /* hero section =============================== */
 
 div#hero {
-	/*background: #00FA9A;*/
+	background: #00FA9A;
 	height: 500px;
 	padding-top: 40px;
 	padding-bottom: 30px;
 	position: relative;
-	background: url(images/bg.png) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+	
 	
 
 }
