@@ -84,12 +84,29 @@ div#lr-widget {
 }
 
 
+/* kickoff section =============================== */
 
+div#kickoff {
+	background: moccasin;
+	height: 540px;
+	padding-top: 40px;
+	padding-bottom: 30px;
+	position: relative;
+	
+
+}
+
+
+
+div.kickoff-unit{
+	background: transparent;
+	position: relative;
+}
 
 /* hero section =============================== */
 
 div#hero {
-	background: #00FA9A;
+	background: moccasin;
 	height: 500px;
 	padding-top: 40px;
 	padding-bottom: 30px;
