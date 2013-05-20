@@ -75,34 +75,25 @@ li.logotext {
 div#lr-widget {
 	
 	
-	height: 540px;
+	height: 300px;
 	/*overflow: auto;*/
 
 	
-	margin: 75px auto 0 auto;
+	margin: px auto 0 auto;
 
 }
 
-html {
-	position: relative;
-	background: url(images/bg.png) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+
 
 /* kickoff section =============================== */
 
 div#kickoff {
-	
-	height: 1000px;
-	padding-top: 40px;
-	padding-bottom: 30px;
+	background: lightgrey;
+	height: 500px;
+	padding-top: 100px;
+	position: relative;
 	
 
-
-  position: relative;
  
 
 }
@@ -113,7 +104,7 @@ div#kickoff {
 	text-align: center;
 	font-weight: 300;
 	font-size: 7em;
-	padding-top: 150px;
+	padding-top: 100px;
 	padding-bottom: 20px;
 }
 
