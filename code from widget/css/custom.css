@@ -75,7 +75,7 @@ li.logotext {
 div#lr-widget {
 	
 	
-	height: 740px;
+	height: 540px;
 	/*overflow: auto;*/
 
 	
@@ -126,17 +126,7 @@ div#reasons {
 }
 
 
-/* hero section =============================== */
 
-div#anmelden {
-	background: white;
-	height: 500px;
-	padding-top: 30px;
-	padding-bottom: 30px;
-	position: relative;
-	
-
-}
 
 
 
@@ -189,7 +179,6 @@ h5.footerlink:hover {
 
 h5.quote {
 color: white;
-font-weight: 230;
 margin-left: 70px;
 
 	}
@@ -209,7 +198,7 @@ h4.signature {font-family: cookie;
 	font-size: 3.1em;
 	font-weight: 300;
 	padding-top: 15px;
-	margin-bottom: -10px;
+	margin-bottom: -20px;
 	color: white;
 	margin-left: 70px;
 
@@ -282,14 +271,8 @@ h4.signature {font-family: cookie;
     }
 
 
-	
-
-
-
-
-    
-
-
+		
+        
 
 
 
