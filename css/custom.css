@@ -96,17 +96,31 @@ div#kickoff {
 
 }
 
+.headline {
+	font-family: cookie;
+	color: #00FA9A;
+	text-align: center;
+	font-weight: 300;
+	font-size: 7em;
+	padding-top: 150px;
+	padding-bottom: -150px;
+}
+
 
 
 div.kickoff-unit{
 	background: transparent;
 	position: relative;
+	
+
+	
+
 }
 
 /* hero section =============================== */
 
 div#hero {
-	background: moccasin;
+	background: #00FA9A;
 	height: 500px;
 	padding-top: 40px;
 	padding-bottom: 30px;
