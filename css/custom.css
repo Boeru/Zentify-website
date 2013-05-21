@@ -322,6 +322,65 @@ h4.signature {font-family: cookie;
     }
 
 
+.myButtonwhite.signup {
+
+
+	width: 230px;
+	text-align: center;
+	
+		
+        
+        -moz-box-shadow:inset 0px px 0px 0px #ffffff;
+        -webkit-box-shadow:inset 0px px 0px 0px #ffffff;
+        box-shadow:inset 0px px 0px 0px #ffffff;
+        
+        background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #ffffff));
+        background:-moz-linear-gradient(top, #ffffff 5%, #ffffff 100%);
+        background:-webkit-linear-gradient(top, #ffffff 5%, #ffffff 100%);
+        background:-o-linear-gradient(top, #ffffff 5%, #ffffff 100%);
+        background:-ms-linear-gradient(top, #ffffff 5%, #ffffff 100%);
+        background:linear-gradient(to bottom, #ffffff 5%, #ffffff 100%);
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0);
+        
+        background-color:#ffffff;
+        
+        -moz-border-radius:0px;
+        -webkit-border-radius:0px;
+        border-radius:0px;
+        
+        
+        
+        display:inline-block;
+       color: #333333;
+        font-family:Trebuchet MS;
+        font-size:17px;
+        font-weight:bold;
+        padding:11px ;
+		margin:20px 3px 6px ;
+        text-decoration: none;
+        
+        
+
+    }
+    .myButtonwhite.signup:hover {
+        
+	
+        background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, lightgrey), color-stop(1, lightgrey));
+        background:-moz-linear-gradient(top, lightgrey  5%, lightgrey 100%);
+        background:-webkit-linear-gradient(top, lightgrey  5%, lightgrey  100%);
+        background:-o-linear-gradient(top, lightgrey  5%, lightgrey  100%);
+        background:-ms-linear-gradient(top, lightgrey  5%, lightgrey  100%);
+	
+        background:linear-gradient(to bottom,lightgrey 5%, lightgrey  100%);
+        color: #333333;
+         text-decoration: none;
+        background-color:lightgrey;
+    }
+    .myButtonwhite.signup:active {
+        position:relative;
+        top:1px;
+         text-decoration: none;
+    }
 	
 
 
