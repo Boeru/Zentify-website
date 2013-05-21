@@ -320,7 +320,8 @@ a:focus {
 
 .span6 {
   width: 460px;
-  
+  margin-top: 50px;
+
 }
 
 .span5 {
@@ -329,6 +330,7 @@ a:focus {
 
 .span4 {
   width: 300px;
+  margin-top: 50px;
 }
 
 .span3 {

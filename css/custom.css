@@ -405,8 +405,13 @@ h4.signature {font-family: cookie;
 
 
 
-    
-.first-name.half.last-name .company {display:none;}
+
+
+.signupwidget {
+	margin-bottom: -100px;
+margin-top: -30px;
+margin-left: -115px;
+}
 
 
 
