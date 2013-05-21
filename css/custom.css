@@ -98,7 +98,7 @@ div#lr-widget {
 	font-weight: 300;
 	font-size: 7em;
 	padding-top: 200px;
-	padding-bottom: 30px;
+	
 	position: relative;
 }
 
@@ -149,7 +149,7 @@ div.signup-unit{
 div#hero {
 	background: #00FA9A;
 	height: 500px;
-	padding-top: 40px;
+	padding-top: 0px;
 	padding-bottom: 30px;
 	position: relative;
 	
@@ -184,6 +184,23 @@ div#reasons {
 	
 }
 
+/* feature section =============================== */
+
+div#features {
+	background: lightgrey;
+	height: 470px;
+	padding-top: 60px;
+	position: relative;
+	text-align: center;
+	
+}
+
+div.row.toprow{
+	margin-top: -25px;
+
+}
+
+
 
 /* hero section =============================== */
 
@@ -213,11 +230,7 @@ div#footer{
 	
 }
 
-div.span4 {
 
-	text-align: center;
-	margin-top: 50px;
-}
 
 
 
