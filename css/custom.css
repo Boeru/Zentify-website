@@ -124,6 +124,25 @@ max-height: 1300px:
 
 
 }
+/* signup page =============================== */
+
+div#signuppage {
+	background: lightgrey;
+	height: 440px;
+	padding-top: 60px;
+	padding-bottom: 30px;
+	position: relative;
+	
+	
+
+}
+
+
+
+div.signup-unit{
+	background: transparent;
+	position: relative;
+}
 
 /* hero section =============================== */
 
@@ -185,7 +204,7 @@ div#anmelden {
 
 
 div#footer{
-	background: lightgrey;
+	background: #00FA9A;
 	height: 200px;
 	
 	position: relative;
@@ -365,16 +384,16 @@ h4.signature {font-family: cookie;
     .myButtonwhite.signup:hover {
         
 	
-        background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, lightgrey), color-stop(1, lightgrey));
-        background:-moz-linear-gradient(top, lightgrey  5%, lightgrey 100%);
-        background:-webkit-linear-gradient(top, lightgrey  5%, lightgrey  100%);
-        background:-o-linear-gradient(top, lightgrey  5%, lightgrey  100%);
-        background:-ms-linear-gradient(top, lightgrey  5%, lightgrey  100%);
+        background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #00FA9A), color-stop(1, #00FA9A));
+        background:-moz-linear-gradient(top, #00FA9A  5%, #00FA9A 100%);
+        background:-webkit-linear-gradient(top, #00FA9A  5%, #00FA9A  100%);
+        background:-o-linear-gradient(top, #00FA9A  5%, #00FA9A  100%);
+        background:-ms-linear-gradient(top, #00FA9A  5%, #00FA9A  100%);
 	
-        background:linear-gradient(to bottom,lightgrey 5%, lightgrey  100%);
+        background:linear-gradient(to bottom,#00FA9A 5%, #00FA9A  100%);
         color: #333333;
          text-decoration: none;
-        background-color:lightgrey;
+        background-color:#00FA9A;
     }
     .myButtonwhite.signup:active {
         position:relative;
@@ -387,7 +406,7 @@ h4.signature {font-family: cookie;
 
 
     
-
+.first-name.half.last-name .company {display:none;}
 
 
 
