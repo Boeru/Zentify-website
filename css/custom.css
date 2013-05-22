@@ -21,8 +21,8 @@ div.navbar-inner {
 
 div.nav {
 	display:block; 
-	width:100%;
-	min-width:200px;
+	
+	
 }
 
 div.greenbox {
@@ -80,10 +80,6 @@ li.logotext {
 
 }
 
-div#header{
-	width: 200px;
-	display: block;
-}
 
 /* Launchrock widget =============================== */
 
