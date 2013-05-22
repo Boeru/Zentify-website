@@ -12,16 +12,10 @@ div.navbar-inner {
 	width: 100%;
 	float: left;
 
-	
-
 }
-
-
-	
 
 div.nav {
 	display:block; 
-	
 	
 }
 
@@ -35,7 +29,6 @@ div.navbar .nav > li > a {
 	display: inline-block;
 
 }
-
 
 div.navbar .nav > li > a:hover {
 	color: #00FA9A;
@@ -57,8 +50,6 @@ margin-top: 8px ;
 	line-height: 1.1em;
 	height: auto;
 
-	
-
 }
 
 div.navbar .nav .active > a:hover { 
@@ -68,8 +59,6 @@ div.navbar .nav .active > a:hover {
 	border: none;
 	box-shadow: none;
 	}
-
-
 
 li.logotext {
 	font-family: cookie;
@@ -98,10 +87,6 @@ div#lr-widget {
 /* kickoff section =============================== */
 
 
-
-
-
-
 .headline {
 	font-family: cookie;
 	color: #00FA9A;
@@ -113,15 +98,9 @@ div#lr-widget {
 	position: relative;
 }
 
-
-
 div.kickoff-unit{
-	
-	
-text-align: center;
-position: relative;
-
-
+	text-align: center;
+	position: relative;
 
 }
 
@@ -144,10 +123,7 @@ div#pricingpage {
 	padding-bottom: 30px;
 	position: relative;
 	
-	
-
 }
-
 
 
 div.signup-unit{
@@ -166,8 +142,6 @@ div#signuppage {
 	padding-bottom: 30px;
 	position: relative;
 	
-	
-
 }
 
 
@@ -188,8 +162,6 @@ div#hero {
 	padding-top: 0px;
 	padding-bottom: 30px;
 	position: relative;
-	
-	
 
 }
 .span7 h1 {
@@ -199,7 +171,7 @@ div#hero {
   letter-spacing: -1px;
   color: #00FA9A;
   text-align: center;
-  
+
 
 }
 
@@ -256,10 +228,7 @@ div#anmelden {
 	padding-bottom: 30px;
 	position: relative;
 	
-
 }
-
-
 
 
 /* Footer =============================== */
@@ -274,12 +243,6 @@ div#footer{
 	
 	
 }
-
-
-
-
-
-
 
 h5.footerlink {
   margin: 10px 0;
@@ -301,9 +264,6 @@ h5.footerlink:hover {
 }
 
 
-
-
-
 h5.quote {
 color: white;
 font-weight: 230;
@@ -319,9 +279,6 @@ h4.footerheadline {
 }
 
 
-
-
-
 h4.signature {font-family: cookie;
 	font-size: 3.1em;
 	font-weight: 300;
@@ -331,11 +288,6 @@ h4.signature {font-family: cookie;
 	margin-left: 70px;
 
 }
-
-
-
-
-
 
 /* Buttons =============================== */
 
