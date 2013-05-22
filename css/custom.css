@@ -10,19 +10,32 @@ div.navbar-inner {
 	padding-top: 10px;
 	margin-bottom: 100px;
 	width: 100%;
+	float: left;
 
 	
 
 }
 
 
+	
 
+div.nav {
+	display:block; 
+	width:100%;
+	min-width:200px;
+}
+
+div.greenbox {
+	margin-right: -33px;
+}
 
 div.navbar .nav > li > a {
 	color: #333333;
 	text-shadow: none;
+	display: inline-block;
 
 }
+
 
 div.navbar .nav > li > a:hover {
 	color: #00FA9A;
@@ -56,10 +69,7 @@ div.navbar .nav .active > a:hover {
 	box-shadow: none;
 	}
 
-div.navbar .divider-vertical{
-	width: 20px;
-	border: none;
-}
+
 
 li.logotext {
 	font-family: cookie;
@@ -68,6 +78,11 @@ li.logotext {
 	padding-top: 8px;
 	color: #333333;
 
+}
+
+div#header{
+	width: 200px;
+	display: block;
 }
 
 /* Launchrock widget =============================== */
@@ -425,6 +440,7 @@ h4.signature {font-family: cookie;
 margin-top: -30px;
 margin-left: -115px;
 }
+
 
 
 
