@@ -92,31 +92,31 @@ div#lr-widget {
 	color: #00FA9A;
 	text-align: center;
 	font-weight: 300;
-	font-size: 7em;
-	padding-top: 200px;
+	font-size: 8em;
+
+	padding-top: 400px;
+
 	
 	position: relative;
 }
 
 div.kickoff-unit{
 	text-align: center;
-	position: relative;
+	position: fixed;
+
 	height: 700px;
-	z-index: 1;
+	z-index: -1;
+	
+	width: 100%;
+	max-height: 100%
+	
+	
 
-
-}
-
-div.layer {
-	 -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  max-width: 1920px;
-max-height: 1300px:
 
 
 }
+
+
 
 
 div#pricingpage {
