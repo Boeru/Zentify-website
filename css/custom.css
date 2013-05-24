@@ -442,11 +442,12 @@ h4.signature {font-family: cookie;
 	margin-bottom: -100px;
 margin-top: -30px;
 margin-left: -115px;
+height: 300px;
 }
 
 .signupwidgetfront {
 	margin-bottom: 40px;
-margin-top: 440px;
+margin-top: 470px;
 width: 100%;
 z-index: 2;
 }
