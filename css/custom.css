@@ -93,7 +93,7 @@ position: relative;
 	font-weight: 300;
 	font-size: 8em;
 
-	padding-top: 300px;
+	padding-top: 250px;
 
 	position: fixed;
 width: 100%;}
@@ -421,6 +421,13 @@ h4.signature {font-family: cookie;
 	margin-bottom: -100px;
 margin-top: -30px;
 margin-left: -115px;
+}
+
+.signupwidgetfront {
+	margin-bottom: px;
+margin-top: 400px;
+z-index: 2;
+position: fixed;
 }
 
 
