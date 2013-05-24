@@ -97,20 +97,24 @@ div#lr-widget {
 
 	position: fixed;
 	width: 100%;
-z-index: 3;}
+	
+}
 
 	.subline {
 	
 	color: white;
 	text-align: center;
+
+
 	
 	
 width: 100%;
-	margin-top: 300px;
+	margin-top: 350px;
 
 	position: fixed;
 	font-size: 1.6em;
 	line-height: 1.4em;
+
 	}
 
 
