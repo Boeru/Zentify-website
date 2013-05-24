@@ -93,7 +93,7 @@ position: relative;
 	font-weight: 300;
 	font-size: 8em;
 
-	padding-top: 180px;
+	padding-top: 300px;
 
 	position: fixed;
 width: 100%;}
@@ -102,7 +102,7 @@ div.kickoff-unit{
 	text-align: center;
 	position: fixed;
 
-	height: 900px;
+	height: 0px;
 	z-index: 0;
 	
 	width: 100%;
@@ -140,7 +140,6 @@ div#signuppage {
 	padding-top: px;
 	padding-bottom: 40px;
 	background-color: white;
-	margin-top: 50px;
 	
 	
 }
@@ -422,14 +421,6 @@ h4.signature {font-family: cookie;
 	margin-bottom: -100px;
 margin-top: -30px;
 margin-left: -115px;
-}
-
-.signupwidgetfront {
-	
-margin-top: 400px;
-
-position: fixed;
-z-index: 2;
 }
 
 
