@@ -70,8 +70,7 @@ li.logotext {
 }
 
 
-/* Launchrock widget =============================== */
-
+/* Launchrock widget =============================== 
 div#lr-widget {
 	
 	
@@ -248,6 +247,7 @@ div#anmelden {
 	padding-top: 30px;
 	padding-bottom: 30px;
 	position: relative;
+	margin-top: 40px;
 	
 }
 
