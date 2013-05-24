@@ -93,7 +93,7 @@ position: relative;
 	font-weight: 300;
 	font-size: 8em;
 
-	padding-top: 250px;
+	padding-top: 180px;
 
 	position: fixed;
 width: 100%;}
@@ -140,6 +140,7 @@ div#signuppage {
 	padding-top: px;
 	padding-bottom: 40px;
 	background-color: white;
+	margin-top: 50px;
 	
 	
 }
