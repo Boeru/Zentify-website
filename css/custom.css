@@ -96,7 +96,8 @@ div#lr-widget {
 	padding-top: 250px;
 
 	position: fixed;
-	width: 100%;}
+	width: 100%;
+z-index: 3;}
 
 	.subline {
 	
@@ -120,9 +121,9 @@ div.kickoff-unit{
 
 	height: 940px;
 	z-index: 0;
-	min-width:1000px;
+	
 	width: 100%;
-	max-height: 680px;
+	max-height: 780px;
 	
 	
 
