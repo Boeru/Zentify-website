@@ -448,8 +448,9 @@ margin-left: -115px;
 
 .signupwidgetfront {
 	margin-bottom: 40px;
-margin-top: 370px;
+margin-top: 440px;
 width: 100%;
+z-index: 2;
 }
 
 
