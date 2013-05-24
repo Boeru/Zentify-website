@@ -93,18 +93,17 @@ position: relative;
 	font-weight: 300;
 	font-size: 8em;
 
-	padding-top: 400px;
+	padding-top: 300px;
 
-	
-	position: relative;
-}
+	position: fixed;
+width: 100%;}
 
 div.kickoff-unit{
 	text-align: center;
 	position: fixed;
 
-	height: 700px;
-	z-index: -1;
+	height: 900px;
+	z-index: 0;
 	
 	width: 100%;
 	max-height: 100%
@@ -135,11 +134,12 @@ div#pricingpage {
 /* signup page =============================== */
 
 div#signuppage {
-	background: lightgrey;
+	
 	height: 550px;
 	
-	padding-top: 20px;
-	padding-bottom: 30px;
+	padding-top: px;
+	padding-bottom: 40px;
+	background-color: white;
 	
 	
 }
