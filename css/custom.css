@@ -108,11 +108,12 @@ div#lr-widget {
 	
 	
 width: 100%;
-	margin-top: 350px;
+	margin-top: 325px;
 
 	position: fixed;
 	font-size: 1.6em;
 	line-height: 1.4em;
+	font-weight: 300;
 
 	}
 
@@ -311,6 +312,8 @@ h4.signature {font-family: cookie;
 }
 
 /* Buttons =============================== */
+
+
 
 .myButtonwhite {
 
