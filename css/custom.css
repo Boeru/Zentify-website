@@ -237,7 +237,9 @@ div.row.toprow{
 
 }
 
-
+div.container {
+	margin-top: 40px;
+}
 
 /* hero section =============================== */
 
@@ -247,7 +249,7 @@ div#anmelden {
 	padding-top: 30px;
 	padding-bottom: 30px;
 	position: relative;
-	margin-top: 40px;
+
 	
 }
 
