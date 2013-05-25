@@ -157,7 +157,7 @@ div#pricingpage {
 div#signuppage {
 	
 	height: 550px;
-	margin-top: 65px;
+	padding-top: 65px;
 	
 	padding-bottom: 40px;
 	background-color: lightgrey;
