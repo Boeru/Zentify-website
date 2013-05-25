@@ -157,10 +157,10 @@ div#pricingpage {
 div#signuppage {
 	
 	height: 550px;
+	margin-top: 65px;
 	
-	padding-top: px;
 	padding-bottom: 40px;
-	background-color: white;
+	background-color: lightgrey;
 	
 	
 }
@@ -225,7 +225,7 @@ div#reasons {
 /* feature section =============================== */
 
 div#features {
-	background: #00FA9A;
+	background: lightgrey;
 	height: 470px;
 	padding-top: 60px;
 	position: relative;
@@ -257,7 +257,7 @@ div#anmelden {
 
 
 div#footer{
-	background: lightgrey;
+	background: #00FA9A;
 	height: 200px;
 	
 	position: relative;
