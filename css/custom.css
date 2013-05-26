@@ -149,7 +149,16 @@ div#pricingpage {
 
 
 
-
+div#incentivepage {
+	
+	height: 700px;
+	padding-top: 65px;
+	
+	padding-bottom: 40px;
+	background-color: lightgrey;
+	
+	
+}
 
 
 /* signup page =============================== */
