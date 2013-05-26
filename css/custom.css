@@ -273,7 +273,7 @@ div#footer{
 	
 	position: relative;
 	padding-top: 30px;
-	z-index: -1;
+	z-index: 0;
 	
 	
 }
