@@ -157,12 +157,10 @@ div#pricingpage {
 div#signuppage {
 	
 	height: 550px;
-	padding-top: 30px;
+	padding-top: 65px;
 	
 	padding-bottom: 40px;
 	background-color: lightgrey;
-	position: fixed;
-	width:100%;
 	
 	
 }
@@ -249,8 +247,7 @@ div#anmelden {
 	height: 500px;
 	padding-top: 30px;
 	padding-bottom: 30px;
-	position: fixed;
-	width: 100%;
+	position: relative;
 
 	
 }
@@ -265,7 +262,7 @@ div#footer{
 	
 	position: relative;
 	padding-top: 30px;
-	z-index: -3;
+	z-index: 1;
 	
 	
 }
@@ -352,7 +349,7 @@ h4.signature {font-family: cookie;
         font-size:17px;
         font-weight:bold;
         padding:11px ;
-		margin:20px 3px 6px ;
+		margin:20px 3px -3px 0px;
         text-decoration: none;
         
         
@@ -413,7 +410,7 @@ h4.signature {font-family: cookie;
         font-size:17px;
         font-weight:bold;
         padding:11px ;
-		margin:20px 3px 6px ;
+		margin:20px 3px -3px 0px ;
         text-decoration: none;
         
         
@@ -494,7 +491,7 @@ z-index: 2;
         font-size:17px;
         font-weight:bold;
         padding:11px ;
-		margin:20px 3px 6px ;
+		margin:20px 3px 3px 0px;;
         text-decoration: none;
         
         
@@ -506,8 +503,12 @@ display:inline-block;
         font-family:Trebuchet MS;
         font-size:17px;
         font-weight:bold;
-        padding:11px ;
-		margin:0 3px 6px ;
+        padding-top :11px ;
+        padding-left: 30px;
+        padding-right: 0;
+        
+
+		margin:0 3px 6px 0px;
         text-decoration: none;
         text-align: left;
 }
