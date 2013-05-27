@@ -70,6 +70,12 @@ li.logotext {
 }
 
 
+div.row{
+	margin-top: px;
+
+}
+
+
 /* Launchrock widget =============================== 
 div#lr-widget {
 	
@@ -114,6 +120,7 @@ margin-top: 40px;
 
 	position: relative;
 	width: 100%;
+
 	z-index: 100;
 	
 }
@@ -127,11 +134,11 @@ div.kickoff-unit{
 	text-align: center;
 	position: fixed;
 
-	height: 940px;
+	height: 790px;
 	z-index: 0;
 	
 	width: 100%;
-	max-height: 780px;
+	
 	
 	
 
