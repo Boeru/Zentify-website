@@ -85,6 +85,24 @@ div#lr-widget {
 /* kickoff section =============================== */
 
 
+
+
+	.subline {
+	
+	color: white;
+	text-align: center;
+
+margin-top: 30px;
+	
+	
+	width: 100%;
+	position: relative;
+	font-size: 1.6em;
+	line-height: 1.4em;
+	font-weight: 300;
+	}
+
+
 .headline {
 	font-family: cookie;
 	color: #00FA9A;
@@ -92,30 +110,16 @@ div#lr-widget {
 	font-weight: 300;
 	font-size: 8em;
 
-	padding-top: 300px;
+	
 
-	position: fixed;
+	position: relative;
 	width: 100%;
+	z-index: 100;
 	
 }
 
-	.subline {
 	
-	color: white;
-	text-align: center;
 
-
-	
-	
-width: 100%;
-	margin-top: 380px;
-
-	position: fixed;
-	font-size: 1.6em;
-	line-height: 1.4em;
-	font-weight: 300;
-
-	}
 
 
 
@@ -191,6 +195,16 @@ div.signup-unit{
 div#hero {
 	background: #00FA9A;
 	height: 500px;
+	padding-top: 0px;
+	padding-bottom: 30px;
+	position: relative;
+
+}
+
+
+div#hero1 {
+	background: transparent;
+	height: 0px;
 	padding-top: 0px;
 	padding-bottom: 30px;
 	position: relative;
