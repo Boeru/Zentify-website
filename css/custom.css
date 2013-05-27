@@ -476,9 +476,10 @@ height: 300px;
 
 .signupwidgetfront {
 	margin-bottom: 40px;
-margin-top: 470px;
+
 width: 100%;
 z-index: 2;
+position: relative;
 }
 
 
