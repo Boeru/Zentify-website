@@ -75,6 +75,15 @@ div.row{
 
 }
 
+li.logotext.extra {
+	font-family: cookie;
+	font-size: 4.1em;
+	font-weight: 300;
+	padding-top: 8px;
+	color: #333333;
+
+}
+
 
 /* Launchrock widget =============================== 
 div#lr-widget {
